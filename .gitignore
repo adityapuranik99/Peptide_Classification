@@ -24,3 +24,8 @@ Project_1/predictions_4.txt
 Project_1/result.dat
 Project_1/features_resampled_dict_count.csv
 Project_1/labels_resampled_dict_count.csv
+Project_1/format_15_0.07_0.8.txt
+Project_1/format_15_0.07_normal.txt
+Project_1/format_15_0.07_threshold_0.6.txt
+Project_1/format_15_0.07.txt
+Project_1/format_16_0.1_0.8.txt
